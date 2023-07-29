@@ -1,1 +1,2 @@
-local hello = hiya
+local key = "goodnighteveryone"
+return key
