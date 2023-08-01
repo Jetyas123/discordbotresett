@@ -1,2 +1,2 @@
-local key = "ggsonguessthenumber"
+local key = "randomasskey"
 return key
